@@ -1,4 +1,4 @@
-# 🚀 Automação de Testes com Cypress — Neolude
+# 🚀 neolude-lms-e2e-cypress
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Cypress-green)
