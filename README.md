@@ -1,4 +1,4 @@
-# 🚀 neolude-lms-e2e-cypress
+# 🚀 E2E Test Automation - Neolude LMS Platform (Cypress)
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Cypress-green)
